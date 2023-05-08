@@ -18,7 +18,7 @@ import com.sun.net.httpserver.HttpServer;
 public class puzzleservers {
 
     private static final int DEFAULT_PORT = 8000;
-    private static final String IMAGE_DIRECTORY = "C:\\Users\\lenovo\\Downloads\\images\\";
+    private static final String IMAGE_DIRECTORY = "";
     private static final String IMAGE_EXTENSION = ".png";
  
     public static void main(String[] args) throws IOException {
